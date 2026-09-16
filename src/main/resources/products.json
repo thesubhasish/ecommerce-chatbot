@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Over-ear headphones with active noise cancellation and 30-hour battery life.",
+    "price": 45.99
+  },
+  {
+    "id": "2",
+    "name": "Smart Fitness Watch",
+    "description": "Tracks heart rate, steps, and sleep. Water-resistant with a 7-day battery.",
+    "price": 79.99
+  },
+  {
+    "id": "3",
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated 1-liter bottle that keeps drinks cold for 24 hours or hot for 12.",
+    "price": 19.99
+  },
+  {
+    "id": "4",
+    "name": "Mechanical Keyboard",
+    "description": "Compact 75% layout mechanical keyboard with hot-swappable switches and RGB lighting.",
+    "price": 89.99
+  },
+  {
+    "id": "5",
+    "name": "Portable Power Bank",
+    "description": "10,000mAh power bank with fast charging, supports two devices at once.",
+    "price": 24.99
+  }
+]
